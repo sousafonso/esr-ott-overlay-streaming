@@ -45,7 +45,3 @@ O sistema cria uma rede lógica (overlay) sobre a infraestrutura IP física (und
 ## Licença
 
 [Indicar licença, ex: MIT License]
-
----
-
-Este README pode ser adaptado conforme avanças na implementação e tens resultados para mostrar. Posso ajudar a criar uma versão mais detalhada ou com instruções específicas para instalação/testes se quiseres.
